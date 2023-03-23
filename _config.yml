@@ -1,10 +1,10 @@
 ### your site title here
-title: Lorenzo Carnevale
-description: Assistant Professor at University of Messina
+title: Sheng Zuo (左 胜)
+description: Associate Professor at Anhui Normal University
 
 baseurl: "" #name of GitHub repository
 url: "" #custom url to be used instead of GitHub repository
-email: lcarnevale@unime.it
+email: sheng.zuo@ahnu.edu.cn
 
 highlighter: rouge
 markdown: kramdown
@@ -24,7 +24,6 @@ orcid: "0000-0002-1349-341X"
 google_analytics: "G-V0TBR5PTVH"
 scopus: "57195963279"
 google_scholar: "_5EzmTwAAAAJ&hl=it"
-flickr: "lorenzocarnevale"
 
 
 # highlighter: rouge
