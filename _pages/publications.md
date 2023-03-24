@@ -15,13 +15,6 @@ published: true
 0. Antonio Celesti and Antonino Galletta and Lorenzo Carnevale and Maria Fazio and Aime Ĺay-Ekuakille and Massimo Villari. "*An IoT Cloud System for Traffic Monitoring and Vehicular Accidents Prevention Based on Mobile Sensor Data Processing*". Sensors Journal, IEEE, vol. 18-12, pp. 4795-4802, ISSN: 1530-437X (November 2017) (doi: [10.1109/JSEN.2017.2777786](https://doi.org/10.1109/JSEN.2017.2777786)) [[bibtex](https://github.com/lcarnevale/publications/blob/main/bibtex/201711-paper-journal-ieee-sensors.bib)]
 
 
-## Book Chapters
+## Doctoral Thesis
 
-#### 2021
-0. Lorenzo Carnevale, Luisa Damiano, Antonio Fleres, and Massimo Villari. “*Visitor Artwork Ambient and how Making New Functions of Cultural Heritage by Using Augmented Reality within an Ambient Intelligence*”. 2021 IEEE International Symposium on Mixed and Augmented Reality Adjunct (ISMAR-Adjunct). October 2021, pp. 8-12 (doi: [10.1109/ISMAR-Adjunct54149.2021.00013](https://doi.org/10.1109/ISMAR-Adjunct54149.2021.00013))
-
-## Patents
-
-#### 2020
-0. Massimo Villari and Alina Mihaela Buzachis and Lorenzo Carnevale and Antonino Galletta and Francesco Martella and Claudio Cincotta. "*Sistema di comunicazione che utilizza una rete mesh*". Ministero dello Sviluppo Economico, Direzione  Generale per la Tutela della Priprietà Industriale, Ufficio Italiano Brevetti e Marchi. Identifier: 102018000010500
-{: reversed="reversed"}
+0. Sheng Zuo “*Plastome, repeatome and kinetochore protein evolution in land plants*”. 2022 Masaryk University.([Link]([https://doi.org/10.1109/ISMAR-Adjunct54149.2021.00013](https://is.muni.cz/th/hdlm8/Sheng_Zuo_Thesis.pdf)))
