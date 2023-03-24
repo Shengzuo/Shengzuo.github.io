@@ -30,4 +30,4 @@ Wenpan Zhang#, **Sheng Zuo#**, Zhanjie Li, Zhuang Meng, Jinlei Han, Junqi Song, 
 
 ## Doctoral Thesis
 
-Sheng Zuo “*Plastome, repeatome and kinetochore protein evolution in land plants*”. 2022 Masaryk University.[https://is.muni.cz/th/hdlm8/Sheng_Zuo_Thesis.pdf]
+Sheng Zuo “*Plastome, repeatome and kinetochore protein evolution in land plants*”. 2022 Masaryk University.([https://is.muni.cz/th/hdlm8/Sheng_Zuo_Thesis.pdf](https://is.muni.cz/th/hdlm8/Sheng_Zuo_Thesis.pdf))
