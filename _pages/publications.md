@@ -12,7 +12,7 @@ published: true
 
 
 #### 2017
-0. Antonio Celesti and Antonino Galletta and Lorenzo Carnevale and Maria Fazio and Aime Ĺay-Ekuakille and Massimo Villari. "*An IoT Cloud System for Traffic Monitoring and Vehicular Accidents Prevention Based on Mobile Sensor Data Processing*". Sensors Journal, IEEE, vol. 18-12, pp. 4795-4802, ISSN: 1530-437X (November 2017) (doi: [10.1109/JSEN.2017.2777786](https://doi.org/10.1109/JSEN.2017.2777786)) [[bibtex](https://github.com/lcarnevale/publications/blob/main/bibtex/201711-paper-journal-ieee-sensors.bib)]
+0. Wenpan Zhang#, Sheng Zuo#, Zhanjie Li, Zhuang Meng, Jinlei Han, Junqi Song, Yong-Bao Pan, Kai Wang*. "*Isolation and characterization of centromeric repetitive DNA sequences in Saccharum spontaneum*". Scientific Reports, 2017, (doi: [https://doi.org/10.1038/srep41659](https://www.nature.com/articles/srep41659))
 
 
 ## Doctoral Thesis
