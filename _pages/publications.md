@@ -17,4 +17,4 @@ published: true
 
 ## Doctoral Thesis
 
-0. Sheng Zuo “*Plastome, repeatome and kinetochore protein evolution in land plants*”. 2022 Masaryk University.([Link]([https://doi.org/10.1109/ISMAR-Adjunct54149.2021.00013](https://is.muni.cz/th/hdlm8/Sheng_Zuo_Thesis.pdf)))
+0. Sheng Zuo “*Plastome, repeatome and kinetochore protein evolution in land plants*”. 2022 Masaryk University.[Link]([https://doi.org/10.1109/ISMAR-Adjunct54149.2021.00013](https://is.muni.cz/th/hdlm8/Sheng_Zuo_Thesis.pdf))
