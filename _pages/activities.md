@@ -11,11 +11,19 @@ published: true
 <!-- - [Paper Submission: February 28, 2023 - Artificial Intelligence on the Edge, Information, MDPI](https://www.mdpi.com/journal/information/special_issues/AI_on_the_edge) -->
 
 #### Awards
-0. Best Student Paper Award - Christian Sicari and Lorenzo Carnevale and Antonino Galletta and Massimo Villari. "*OpenWolf: a Serverless Workflow Engine for Native Cloud-Edge Continuum*". The 7th IEEE Cyber Science and Technology Congress (CyberSciTech)", September 2022, Falerna (CZ), Italy
+0. Doctoral scholarship from Ministry of Education, Youth and Sports, Czech Republic, 2018-2022
+0. CEITEC PhD School scholarship, Masaryk University, 2018-2022
+0. Scholarships	for	Publications, NCBR, Masaryk University, 2022
+0. Scholarship for presentation of scientific results, NCBR, Masaryk University, 2022
+
+
 {: reversed="reversed"}
 
-#### Associate Editor
-0. [Frontiers in Robotics and AI](https://www.frontiersin.org/journals/robotics-and-ai/sections/smart-sensor-networks-and-autonomy), section <i>Smart Sensor Networks and Autonomy</i>
+#### Review Editor
+0. Chromosome Research
+0. Plant Systematics and Evolution
+{: reversed="reversed"}
+
 
 <!-- #### Conference and Workshop(s) * (Co-)Chair -->
 <!-- 0. [CCGrid 2023](http://cds.iisc.ac.in/faculty/simmhan/ccgrid2023//) - "<i>23rd International Symposium on Cluster, Cloud and Internet Computing</i>", May 2023, Bangalore, India -->
