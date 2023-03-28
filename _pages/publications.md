@@ -7,6 +7,8 @@ published: true
 
 ## Journal Papers
 
+Publications by Sheng Zuo at ([Google Scholar](https://www.sciencedirect.com/science/article/pii/S2590346222003546))
+
 #### 2023
 Ulkar Ahmadli, Manikandan Kalidass, Lucie Crhak Khaitova, Joerg Fuchs, Maria Cuacos, Dmitri Demidov, **Sheng Zuo**, Jana Pecinkova, Martin Mascher, Mathieu Ingouff, Stefan Heckmann, Andreas Houben, Karel Riha, Inna Lermontova*. "*High temperature increases centromere-mediated genome elimination frequency and enhances haploid induction in Arabidopsis*". Plant Communications, 2023, (doi: [https://doi.org/10.1016/j.xplc.2022.100507](https://www.sciencedirect.com/science/article/pii/S2590346222003546))
 
