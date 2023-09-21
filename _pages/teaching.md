@@ -7,6 +7,7 @@ published: true
 
 ## Classes
 - **Bioinformatics**, [2023 - now], [eLearning 2022/2023](https://moodle2.unime.it/course/view.php?id=4840)
+- **Bioinformatics experiment**, [2023 - now], 
 - **Python For Data Analytics**, [2023 - now], [eLearning 2021/2022](https://moodle2.unime.it/course/view.php?id=4806)
 
 ## Thesis Students (Co-)Advisor
